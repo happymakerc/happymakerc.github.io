@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            happymakerc's blog
+longtitle:        happymakerc's blog
+author:           happymakerc
+email:            xxxxxx@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  配置记录博客
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://happymakerc.github.io'
+baseurl:          '/'
 rss:              RSS
 
 toc:
