@@ -1,7 +1,7 @@
 ## 开发
 
 1. [C++](code/cpp/)
-2. [Qt](code/qt/)
+2. [Qt5 开发及实例（第三版）](code/qt/)
 3. [Git](/code/git)
 
 ## 安全
